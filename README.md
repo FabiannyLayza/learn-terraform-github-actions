@@ -30,7 +30,7 @@ ATENÇÃO! O link para o repositório deve ser colocado como resposta à ativida
 ### Terraform Cloud
 ![](imgs/terraform-cloud.jpeg)
 
-### Instance AWS
+### AWS Instance
 ![](imgs/instancia-ec2-aws-1.jpeg)
 
 ![](imgs/instancia-ec2-aws-2.jpeg)
